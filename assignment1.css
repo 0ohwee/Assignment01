@@ -1,0 +1,21 @@
+body{
+    background-image: url("backgroundImg.jpeg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: aliceblue;
+    text-decoration-line: overline;
+}
+h1{
+    color: aqua;
+    text-shadow: 10px 10px 10px white;
+}
+table{
+    color: beige;
+}
+li{
+    background-color: aquamarine;
+}
